@@ -10,7 +10,6 @@
 <img src="https://img.shields.io/badge/gorm-1.20.7-red"/>
 </div>
 
-English | [简体中文](./README.md)
 
 [gitee](https://gitee.com/pixelmax/gin-vue-admin): https://gitee.com/pixelmax/gin-vue-admin
 
